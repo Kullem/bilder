@@ -1,0 +1,48 @@
+body{
+    background-color: blueviolet;
+}
+.bild1{
+float: left;
+width: 400px;
+height: 400px;
+border-right: 5px solid orange;
+border-left: 10px solid orange;
+border-top: 10px solid orange;
+border-bottom: 5px solid orange;
+}
+.bild2{
+float: right;
+width: 400px;
+height: 400px;
+border-right: 10px solid orange;
+border-left: 5px solid orange;
+border-top: 10px solid orange;
+border-bottom: 5px solid orange;
+}
+.bild3{
+float: left;
+width: 400px;
+height: 400px;
+border-right: 5px solid orange;
+border-left: 10px solid orange;
+border-top: 5px solid orange;
+border-bottom: 10px solid orange;
+}
+.bild4{
+float: right;
+width: 400px;
+height: 400px;
+border-right: 10px solid orange;
+border-left: 5px solid orange;
+border-top: 5px solid orange;
+border-bottom: 10px solid orange;
+}
+.titel{
+    text-align: center;
+    width: 830px;
+    height: 900px;
+    margin: 0 auto;
+}
+h1{
+    color: white;
+}
